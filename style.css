@@ -1,0 +1,23 @@
+
+body{
+background-color: #ffffff;
+}
+h1{
+    color: #29a19c;
+}
+h2{
+    color: #29a19c;
+    width: 30px;
+}
+hr{
+    border-style: dotted none none;
+    width: 20%;
+    border-color: #6a8caf;
+
+}
+th{
+text-align: left;
+}
+tr{
+    border-spacing: 13px;
+}
